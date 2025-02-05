@@ -1,6 +1,10 @@
+
 Merge conflicts, do not fear them.
 
 This is content that was added through the GitHub interface. I am causing a merge conflict.
+Merge conflicts, don't fear them. They happens all the time.
+
+This is some additional content that was added through the GitHub interface! I am causing a merge conflict.
 
 This sentence was added locally.
 
